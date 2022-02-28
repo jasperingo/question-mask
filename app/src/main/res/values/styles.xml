@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextInput">
+        <item name="android:layout_marginEnd">@dimen/space_md</item>
+        <item name="android:layout_marginStart">@dimen/space_md</item>
+        <item name="android:layout_marginBottom">@dimen/space_xl</item>
+        <item name="hintTextColor">@color/input_color</item>
+        <item name="boxStrokeWidth">@dimen/space_xs</item>
+        <item name="boxStrokeColor">@color/input_color</item>
+        <item name="boxBackgroundColor">?attr/colorSurface</item>
+        <item name="boxBackgroundMode">outline</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/space_sm</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/space_sm</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/space_sm</item>
+        <item name="boxCornerRadiusTopStart">@dimen/space_sm</item>
+    </style>
+
+    <style name="SubmitButton">
+        <item name="cornerRadius">@dimen/space_sm</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginEnd">@dimen/space_md</item>
+        <item name="android:layout_marginStart">@dimen/space_md</item>
+        <item name="android:layout_marginBottom">@dimen/space_xl</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuestionMask</string>
+
+    <string name="First_name">First name</string>
+    <string name="Last_name">Last name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Pin">Pin</string>
+    <string name="Sign_up">Sign up</string>
+
+</resources>

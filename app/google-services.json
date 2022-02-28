@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095186845724",
+    "project_id": "question-mask",
+    "storage_bucket": "question-mask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095186845724:android:b187e4c750983ad63a4fd9",
+        "android_client_info": {
+          "package_name": "com.jasper.questionmask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095186845724-gompdtpqdpkuh84ph6nae6dbqdpjuvcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPTunyTIXVqFOcO_sCDGkbziwKHkF-Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095186845724-gompdtpqdpkuh84ph6nae6dbqdpjuvcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
