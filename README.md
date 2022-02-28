@@ -1,4 +1,6 @@
 
-#An android application that uses steganography techniques to encode examination questions into an image file.An
+An android application that uses steganography techniques to encode examination questions into an image file.
+============================================================================================================
 
-##This is a school project.
+This is a school project
+=======================
